@@ -9,7 +9,6 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "chromatic": "chromatic --exit-zero-on-changes"
-    // "chromatic": "npx chromatic --project-token=daa303169054"
   },
   "dependencies": {
     "react": "^18.0.0",
